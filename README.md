@@ -101,8 +101,6 @@ Amazon_Sales_Analysis/
 
 👩‍💻 **Bhuvaneswari Kapuluru**  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvaneswari-kapuluru-2892682bb/)  
-
-https://www.linkedin.com/posts/bhuvaneswari-kapuluru-2892682bb_dataanalytics-powerbi-sql-activity-7349009655458676736-UVY7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEy_JYkBoNioJp_jgEL0gka0f68J6L4jAWM
 ---
 
 
